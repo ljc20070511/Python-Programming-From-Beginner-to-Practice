@@ -1,10 +1,10 @@
 # Programming
 记录自学编程
 
-阅读器：Koodo Reader
+阅读器：Koodo Reader（https://koodoreader.com/zh/download）
 
 编译器：
 
-Python:PyCharm
+Python:PyCharm（https://www.jetbrains.com/zh-cn/pycharm/）
 
-C++/C:CLion
+C++/C:CLion（https://www.jetbrains.com/zh-cn/clion/）
